@@ -59,7 +59,7 @@ il aura la possibilité d'être branché sur un chargeur.
 // Déclarations serveur MQTT
 const char* mqtt_server = "192.168.1.81";
 const char* mqttUser = "mod";
-const char* mqttPassword = "Plaqpsmdp";
+const char* mqttPassword = "...";
 const char* svrtopic = "domoticz/in";
 const char* topic_Domoticz_OUT = "domoticz/out";
 
